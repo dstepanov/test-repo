@@ -8,7 +8,6 @@ body:
   - type: textarea
     attributes:
       label: Feature description
-      description: A feature description.
       placeholder: Tell us what feature you would like for Micronaut to have and what problem is it going to solve
     validations:
       required: true
