@@ -1,6 +1,6 @@
 contact_links:
   - name: Questions
-    url: /discussions
+    url: ../../discussions
     about: Please post your questions on Discussions.
   - name: Chat
     url: https://gitter.im/micronautfw/
