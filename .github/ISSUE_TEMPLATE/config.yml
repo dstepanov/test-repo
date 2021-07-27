@@ -1,0 +1,7 @@
+contact_links:
+  - name: Questions
+    url: discussions
+    about: Please post your questions on Discussions.
+  - name: Chat
+    url: https://gitter.im/micronautfw/
+    about: Chat with us on Gitter.
